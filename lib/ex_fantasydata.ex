@@ -1,0 +1,2 @@
+defmodule ExFantasydata do
+end
